@@ -128,7 +128,7 @@ run().catch(console.dir);
 
 // methods
 app.get("/", (req, res) => {
-  res.send("Task Managment Server IS RUNNING!!!");
+  res.send("Task Managment Server IS RUNNING!!! XD");
 });
 
 app.listen(port, () => {
